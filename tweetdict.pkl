@@ -1,0 +1,386 @@
+(dp0
+S'  Like fresh milk a bad deed does not turn at once. It follows a fool  scorching him like a smouldering fire. 71\n'
+p1
+I00
+sS'  From affection arises sorrow, from affection arises fear, but he who is  freed from affection has no sorrow and certainly no fear. 213\n'
+p2
+I00
+sS'  He who has no desires in this world or the next, without longings,  freed! - that is what I call a brahmin. 410\n'
+p3
+I00
+sS"  Wake up and don't be careless, but lead a life of well-doing. He who  follows righteousness lives happily in this world and the next. 168\n"
+p4
+I00
+sS'  But the supreme blight, ignorance, is the blight of blights. Destroying  this blight, be free of blights, bhikkhus. 243\n'
+p5
+I00
+sS"  This indeed is the Way - there is no other - for the  purification of  one's vision. Follow this way. It leads to Mara's confusion. 274\n"
+p6
+I00
+sS"  A good awakening have ever Gotama's disciples, whose minds are always  rejoicing in non violence. 300\n"
+p7
+I00
+sS'  Take pleasure in being careful. Guard your mind well. Extricate yourself  from the mire, like a great tusker sunk in the mud. 327\n'
+p8
+I00
+sS'  When these grey bones are cast aside like gourds in autumn, what  pleasure will there be in looking at them? 149\n'
+p9
+I00
+sS'  If a man has done good, let him keep on doing it. Let him create an  inclination to it. The accumulation of good means happiness. 118\n'
+p10
+I00
+sS'  Without anger, devout, upright, free from craving, disciplined and in  his last body - that is what I call a brahmin. 400\n'
+p11
+I00
+sS'  Guard against mental unruliness. Be restrained in mind. Abandoning  mental wrong doing, lead a life of mental well doing. 232\n'
+p12
+I00
+sS'  From sensuality arises sorrow, from sensuality arises fear, but he who  is freed from sensuality has no sorrow and certainly no fear. 215\n'
+p13
+I00
+sS'  Seeing danger where there is no danger, and not seeing danger where  there is, by holding to wrong views people go to a bad rebirth. 317\n'
+p14
+I00
+sS'  A fool acquires knowledge only to his own disadvantage. It destroys what  good he has, and turns his brains. 72\n'
+p15
+I00
+sS'  He who has nothing of his own, before, after or in between,  possessionless and without attachment - that is what I call a brahmin.  421\n'
+p16
+I00
+sS'  Happy indeed we live who are free from hatred among those who still  hate. In the midst of hate-filled men, we live free from hatred. 197\n'
+p17
+I00
+sS'  Even when he is doing evil, the fool does not realise it. The idiot is  punished by his own deeds, like one is scorched by fire. 136\n'
+p18
+I00
+sS'  Like a fine flower, beautiful to look at and scented too, fine words  bear fruit in a man who acts well in accordance with them. 52\n'
+p19
+I00
+sS'  Though one were to live a hundred years lazy and effortless, the  life of a single day is better if one makes a real effort. 112\n'
+p20
+I00
+sS'  He who does violence to creatures seeking happiness like himself does  not find happiness after death. 131\n'
+p21
+I00
+sS'  A holy man should behave in the village like a bee which takes its food  from a flower without hurting its appearance or its scent. 49\n'
+p22
+I00
+sS'  It is good to meet with the saints. Living with them is always sweet. By  not meeting fools one can be happy all the time. 206\n'
+p23
+I00
+sS'  It is better to swallow a red-hot, flaming iron ball than for an  unrestrained and immoral person to eat the alms food of the land. 308\n'
+p24
+I00
+sS"  Don't indulge in careless behaviour. Don't be the friend of sensual  pleasures. He who meditates attentively attains abundant joy. 27\n"
+p25
+I00
+sS'  But a deed is well done if one does not suffer after doing it, if one  experiences the consequences smiling and contented. 68\n'
+p26
+I00
+sS'  Inflowing thoughts come to an end in those who are ever alert of mind,  training themselves night and day, and ever intent on nirvana. 226\n'
+p27
+I00
+sS'  Lead a life of righteousness, and not a life of wrong-doing. He who  follows righteousness lives happily in this world and the next. 169\n'
+p28
+I00
+sS"  Trying to break out of the Tempter's control, one's mind writhes to and  fro, like a fish pulled from its watery home onto dry ground. 34\n"
+p29
+I00
+sS'  I will bear criticism like an elephant in battle bears an arrow from a  bow. Most people are bad behaviour. 320\n'
+p30
+I00
+sS'  From craving arises sorrow, from craving arises fear, but he who is  freed from craving has no sorrow and certainly no fear. 216\n'
+p31
+I00
+sS'  So long as the least desire of a man for women has not been eradicated,  he is fettered in mind, like a sucking calf to its mother. 284\n'
+p32
+I00
+sS"  A good awakening have ever Gotama's disciples, whose recollection is  always established, day and night on the Order. 298\n"
+p33
+I00
+sS'  He who drinks in the Truth will live happily with a peaceful mind. A  wise man always delights in the Truth taught by the saints. 79\n'
+p34
+I00
+sS'  The wise find peace on hearing the truth, like a deep, clear,  undisturbed lake. 82\n'
+p35
+I00
+sS'  After killing mother, father and two priestly kings, and killed a tiger  as his fifth victim, the brahmin goes on his way unperturbed. 295\n'
+p36
+I00
+sS'  Recognising a fault as a fault, and what is not a fault as not one, by  holding to right views people go to a good rebirth. 319\n'
+p37
+I00
+sS'  So having clearly understood the value of attention, wise men take  pleasure in it, rejoicing in what the saints have practised. 22\n'
+p38
+I00
+sS'  Weeds are the blight of fields. Anger is the blight of mankind.  Consequently offerings to those free from anger are of great fruit. 357\n'
+p39
+I00
+sS"  One is one's own guardian. What other guardian could one have? With  oneself well disciplined one obtains a rare guardian indeed. 160\n"
+p40
+I00
+sS'  He who does no wrong with body, speech or mind, but is restrained in all  three spheres - that is what I call a brahmin. 391\n'
+p41
+I00
+sS'  Guard against verbal unruliness. Be restrained in speech. Abandoning  verbal wrong doing, lead a life of verbal well doing. 233\n'
+p42
+I00
+sS'  Stupid fools go through life as their own enemies, doing evil deeds  which have bitter consequences. 66\n'
+p43
+I00
+sS'  Seeing a fault in what is not a fault, and not seeing a fault in what  is, by holding to wrong views people go to a bad rebirth. 318\n'
+p44
+I00
+sS'  All fear violence, life is dear to all. Seeing the similarity to  oneself, one should not use violence or have it used. 130\n'
+p45
+I00
+sS'  Never have anything to do with likes and dislikes. The absence of what  one likes is painful, as is the presence of what one dislikes. 210\n'
+p46
+I00
+sS'  Like a solid rock is not shaken by the wind, so the wise are not moved  by praise or blame. 81\n'
+p47
+I00
+sS'  Ashamed of what is not a matter for shame, and not ashamed of what is,  by holding to wrong views people go to a bad rebirth. 316\n'
+p48
+I00
+sS'  Be urgent in good; hold your thoughts off evil. When one is slack in  doing good the mind delights in evil. 116\n'
+p49
+I00
+sS'  Whether in the village or the forest, whether on high ground or low,  wherever the enlightened live, that is a delightful spot. 98\n'
+p50
+I00
+sS'  One is not a learned man by virtue of much speaking. He who is patient,  without anger and fearless, he is to be called learned. 258\n'
+p51
+I00
+sS'  There never has been, there never will be, and there is not now any man  exclusively criticised or exclusively praised. 228\n'
+p52
+I00
+sS'  He who, having cut off all fetters, does not get himself upset, but is  beyond bonds - that liberated man is what I call a brahmin. 397\n'
+p53
+I00
+sS'  Navvies channel water, fletchers fashion arrows, and carpenters work on  wood, but the wise disciple themselves. 80\n'
+p54
+I00
+sS'  He whose path devas, spirits and men cannot know, whose inflowing  thoughts are ended, a saint - that is what I call a brahmin. 420\n'
+p55
+I00
+sS'  Even your mother, father or any other relative cannot do you as much  good as your own properly directed thought. 43\n'
+p56
+I00
+sS'  First he should establish himself in what is right. Then if he teaches  others, the wise man will not be corrupted. 158\n'
+p57
+I00
+sS'  Not intimate with laity or monks, wandering about with no abode, and few  needs - that is what I call a brahmin. 404\n'
+p58
+I00
+sS'  The evil he has done himself and which had its origin and being in  himself breaks a fool, like a diamond breaks a precious stone. 161\n'
+p59
+I00
+sS'  There is no fire like desire. There is no hold like anger. There is no  net like ignorance. There is no river like craving. 251\n'
+p60
+I00
+sS'  He who has seen the passing away and rebirth of all beings, free of  clinging, blessed, awakened - that is what I call a brahmin. 419\n'
+p61
+I00
+sS'  Occasions of hatred are certainly never settled by hatred. They are  settled by freedom from hatred. This is the eternal law. 5\n'
+p62
+I00
+sS"  A good awakening have ever Gotama's disciples, whose recollection is  always established, day and night on the Teaching. 297\n"
+p63
+I00
+sS'  Where is that man in the world who is so restrained by shame that he  avoids laziness like a thoroughbred horse avoids the whip? 143\n'
+p64
+I00
+sS'  Sandalwood, tagara, lotus, jasmine - the fragrance of virtue is  unrivalled by such kinds of perfume. 55\n'
+p65
+I00
+sS'  Navvies channel water, fletchers fashion arrows, and carpenters work on  wood, but the good disciple themselves. 145\n'
+p66
+I00
+sS'  In the same way that the jasmine drops its withered flowers, you too  should discard desire and aversion, bhikkhus. 377\n'
+p67
+I00
+sS"  A good awakening have ever Gotama's disciples, whose recollection is  always established, day and night on the Buddha. 296\n"
+p68
+I00
+sS"  A deed is not well done if one suffers after doing it, if one bears the  consequences sobbing and with tears streaming down one's face. 67\n"
+p69
+I00
+sS'  The good are conspicuous a long way off, like a Himalayan peak, while  the bad are just not noticed, like arrows shot into the dark. 304\n'
+p70
+I00
+sS'  Those who have not lived the holy life, and have not acquired wealth in  their youth, lie like spent arrows, grieving for times past. 156\n'
+p71
+I00
+sS'  Death carries off a man busy picking flowers with an besotted mind, like  a great flood does a sleeping village. 47\n'
+p72
+I00
+sS'  When a man has faith, is endowed with virtue, and possessed of fame and  wealth, wherever he lives he will be honoured. 303\n'
+p73
+I00
+sS'  Blinded indeed is this world. Few are those who see the truth. Like a  bird breaking out of the net, few are those who go to heaven. 174\n'
+p74
+I00
+sS'  Abandoning violence to all living creatures moving or still, he who  neither kills or causes killing - that is what I call a brahmin. 405\n'
+p75
+I00
+sS'  An ignorant man ages like an ox. His flesh may increase, but not his  understanding. 152\n'
+p76
+I00
+sS'  Delightful for them are the forests where men find no delight. The  desire-free find delight there, for they seek no sensual joys. 99\n'
+p77
+I00
+sS'  Weeds are the blight of fields. Desire is the blight of mankind.  Consequently offerings to those free from desire are of great fruit. 356\n'
+p78
+I00
+sS'  He who does no violence to creatures seeking happiness like himself does  find happiness after death. 132\n'
+p79
+I00
+sS'  Elusive and unreliable as it is, the wise man straightens out his  restless, agitated mind, like a fletcher crafting an arrow. 33\n'
+p80
+I00
+sS"  When a man's bad deeds are covered over by good ones, he illuminates the  world, like the moon breaking away from a cloud. 173\n"
+p81
+I00
+sS'  If it ought to be done, then do it; apply yourself to it strenuously. A  lax man of religion just spreads even more dust. 313\n'
+p82
+I00
+sS'  The wise who are restrained in body, speech and mind - such are the well  and truly restrained. 234\n'
+p83
+I00
+sS'  Better than a thousand pointless words is one saying to the point on  hearing which one finds peace. 100\n'
+p84
+I00
+sS"  A good awakening have ever Gotama's disciples, whose minds are always  rejoicing in the practice of meditation. 301\n"
+p85
+I00
+sS'  There is no reaching the unattainable with mounts like these, but with  himself well under control a disciplined man can get there. 323\n'
+p86
+I00
+sS'  Before long this body will be lying on the ground, discarded and  unconscious, like a useless bit of wood. 41\n'
+p87
+I00
+sS'  Guard against physical unruliness. Be restrained in body. Abandoning  physical wrong doing, lead a life of physical well doing. 231\n'
+p88
+I00
+sS'  Happy indeed we live who are free from worry among those who are still  worried. In the midst of worried men, we live free from worry. 199\n'
+p89
+I00
+sS'  Lax behaviour, broken observances and dubious chastity - these are of no  great benefit. 312\n'
+p90
+I00
+sS'  Little by little, moment by moment, a wise man should cleanse himself of  blemishes, like a smith purifying silver. 239\n'
+p91
+I00
+sS'  All fear violence, all are afraid of death. Seeing the similarity to  oneself, one should not use violence or have it used. 129\n'
+p92
+I00
+sS'  In the same way that rain breaks into a house with a bad roof, desire  breaks into the mind that has not been practising meditation. 13\n'
+p93
+I00
+sS'  Better than a thousand pointless verses is one stanza on hearing which  one finds peace. 101\n'
+p94
+I00
+sS'  Better than reciting a hundred pointless verses is one verse of the  teaching (one dhammapada) on hearing which one finds peace. 102\n'
+p95
+I00
+sS'  He who utters only gentle, instructive and truthful speech, criticising  no-one - that is what I call a brahmin. 408\n'
+p96
+I00
+sS"  So understand this, my man - Unrestrained men are evil. Don't let greed  and wrong doing subject you to lasting suffering. 248\n"
+p97
+I00
+sS'  Here and beyond he suffers. The wrong-doer suffers both ways. He suffers  and is tormented to see his own depraved behaviour. 15\n'
+p98
+I00
+sS'  Many of those dressed in the yellow robe are evil and unrestrained, and  the evil end up in hell because of their evil deeds. 307\n'
+p99
+I00
+sS'  Journey over, sorrowless, freed in every way, and with all bonds broken  - for such a man there is no more distress. 90\n'
+p100
+I00
+sS'  Like a cowherd driving cows off to the fields, so old age and death take  away the years from the living. 135\n'
+p101
+I00
+sS'  Look on the world as a bubble, look on it as a mirage. The King of Death  never finds him who views the world like that. 170\n'
+p102
+I00
+sS'  With his mind free from the inflow of thoughts and from restlessness, by  abandoning both good and evil, an alert man knows no fear. 39\n'
+p103
+I00
+sS'  One is not noble if one harms other living creatures. It is by non  violence to all forms of life that one is called noble. 270\n'
+p104
+I00
+sS"  One's own misdirected thought can do one more harm than an enemy or an  ill-wisher. 42\n"
+p105
+I00
+sS'  When a man knows no this shore, other shore, or both - such a one, free  from anxiety, liberated, that is what I call a brahmin. 385\n'
+p106
+I00
+sS'  Freed by full realisation and at peace, the mind of such a man is at  peace, and his speech and action peaceful. 96\n'
+p107
+I00
+sS'  When he has seen the implications of this, a wise man, restrained by  morality, should quickly develop the path leading to nirvana. 289\n'
+p108
+I00
+sS'  Happy indeed we live who have nothing of our own. We shall feed on joy,  just like the radiant devas. 200\n'
+p109
+I00
+sS'  It is a city built of bones, and daubed with flesh and blood, in which  old age and death, pride and hypocrisy are the inhabitants. 150\n'
+p110
+I00
+sS'  From preference arises sorrow, from preference arises fear, but he who  is freed from preference has no sorrow and certainly no fear. 212\n'
+p111
+I00
+sS'  Here and beyond he is glad. The doer of good is glad both ways. He is  glad and rejoices to see his own good deeds. 16\n'
+p112
+I00
+sS'  A man of great immorality is like a creeper, suffocating the tree it is  on. He does to himself just what an enemy would wish him. 162\n'
+p113
+I00
+sS'  Unagitated amongst the agitated, at peace among the violent, without  clinging among those who cling - that is what I call a brahmin. 406\n'
+p114
+I00
+sS'  He who has abandoned human bonds, and transcended those of heaven,  liberated from all bonds - that is what I call a brahmin. 417\n'
+p115
+I00
+sS"  To abstain from all evil, the practice of good, and the thorough  purification of one's mind - this is the teaching of the Buddhas. 183\n"
+p116
+I00
+sS'  Following this Path you will put an end to suffering. I have taught you  the Way after realising the removal of the arrow myself. 275\n'
+p117
+I00
+sS'  Others may not understand that we must practice self-control, but  quarrelling dies away in those who understand this fact. 6\n'
+p118
+I00
+sS'  When a brahmin has crossed beyond duality, then all the fetters of such  a seer come to an end. 384\n'
+p119
+I00
+sS'  Restraint of the eyes is good. So is restraint of the ears. Restraint of  the nose is good, and so is restraint of the palate. 360\n'
+p120
+I00
+sS'  From pleasure arises sorrow, from pleasure arises fear, but he who is  freed from pleasure has no sorrow and certainly no fear. 214\n'
+p121
+I00
+sS'  If a man disciplines, instructs and restrains them from what is not  right, he will be dear to the good, and disliked by the bad. 77\n'
+p122
+I00
+sS'  By resolution and attention, by discipline and self-control, a clever  man may build himself an island that no flood can overthrow. 25\n'
+p123
+I00
+sS'  Foolish, ignorant people indulge in careless lives, whereas a clever man  guards his attention as his most precious possession. 26\n'
+p124
+I00
+sS'  Happy indeed we live who are free from disease among those still  diseased. In the midst of diseased men, we live free from disease. 198\n'
+p125
+I00
+sS'  A truly thoroughbred man (a Buddha) is hard to find. He is not born  anywhere, but where that seer is born, the people prosper. 193\n'
+p126
+I00
+sS'  A fool thinks it like honey so long as the bad deed does not bear fruit,  but when it does bear fruit he experiences suffering. 69\n'
+p127
+I00
+sS"  A good awakening have ever Gotama's disciples, whose recollection is  always established, day and night on the body. 299\n"
+p128
+I00
+s.
